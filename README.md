@@ -8,10 +8,10 @@
 <strong>Supprimer une tâche </strong> : Les tâches peuvent être supprimées de la liste.<br><br>
 
 <h1> Installation & Execution </h1>
-<strong>Cloner le dépôt</strong> : git clone https://github.com/votre-utilisateur/nom-du-projet.git<br>
+<strong>Cloner le dépôt</strong> : git clone https://github.com/Hackacton-Hackverse/Les-codeurs-intrepides.git<br>
 <strong>Configurer la base de données</strong> : Créez une base de données MySQL et importez le fichier SQL fourni (tache.sql). <br>
 <strong>Modifier les informations de connexion</strong> : Dans le fichier <strong>database.php</strong> ce dont le chemin est <strong>/Backend/db</strong>, mettez à jour les informations de connexion à la base de données (hôte, nom d’utilisateur, mot de passe, nom de la base de données).<br>
-<strong>Lancer le serveur</strong> : Utilisez un serveur local (comme XAMPP ou WAMP) pour exécuter l’application.<BR>
+<strong>Lancer le serveur</strong> : Utilisez un serveur local (comme XAMPP ou WAMP) pour exécuter l’application et mettre le dossier du projet dans htdocs pour xampp et www pour wampp pour pouvoir y avoir acces en tapant le lien ci-dessous.<BR>
 <strong>execution<strong> : ecrire cet url sur le navigateur pour lancer le projet <strong>http://localhost/todo%20list%20Hack/</strong><br><br>.
 
 
